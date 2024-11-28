@@ -1,0 +1,72 @@
+May 29, 2024 4:08:40 PM edu.curtin.oose2024s1.assignment2.App main
+INFO: Intializing the BikeShop
+May 29, 2024 4:08:40 PM edu.curtin.oose2024s1.assignment2.App main
+INFO: Intializing observers
+May 29, 2024 4:08:40 PM edu.curtin.oose2024s1.assignment2.App main
+INFO: Adding observers to the BikeShop
+May 29, 2024 4:08:40 PM edu.curtin.oose2024s1.assignment2.observer.SuccessObserver update
+INFO: ---
+May 29, 2024 4:08:40 PM edu.curtin.oose2024s1.assignment2.observer.SuccessObserver update
+INFO: Day 1
+May 29, 2024 4:08:41 PM edu.curtin.oose2024s1.assignment2.observer.SuccessObserver update
+INFO: ---
+May 29, 2024 4:08:41 PM edu.curtin.oose2024s1.assignment2.observer.SuccessObserver update
+INFO: Day 2
+May 29, 2024 4:08:41 PM edu.curtin.oose2024s1.assignment2.observer.TaskObserver update
+INFO: Task created: PURCHASE-ONLINE ntinm@wej.qbo
+May 29, 2024 4:08:41 PM edu.curtin.oose2024s1.assignment2.observer.SuccessObserver update
+INFO: Bike purchased online by ntinm@wej.qbo.
+May 29, 2024 4:08:41 PM edu.curtin.oose2024s1.assignment2.observer.TaskObserver update
+INFO: Task created: DELIVERY
+May 29, 2024 4:08:41 PM edu.curtin.oose2024s1.assignment2.observer.SuccessObserver update
+INFO: Delivery made. Total bikes in shop : 60
+May 29, 2024 4:08:41 PM edu.curtin.oose2024s1.assignment2.observer.TaskObserver update
+INFO: Task created: PICK-UP ntinm@wej.qbo
+May 29, 2024 4:08:41 PM edu.curtin.oose2024s1.assignment2.observer.SuccessObserver update
+INFO: Bike purchased online has been picked up by ntinm@wej.qbo
+May 29, 2024 4:08:42 PM edu.curtin.oose2024s1.assignment2.observer.SuccessObserver update
+INFO: ---
+May 29, 2024 4:08:42 PM edu.curtin.oose2024s1.assignment2.observer.SuccessObserver update
+INFO: Day 3
+May 29, 2024 4:08:43 PM edu.curtin.oose2024s1.assignment2.observer.SuccessObserver update
+INFO: ---
+May 29, 2024 4:08:43 PM edu.curtin.oose2024s1.assignment2.observer.SuccessObserver update
+INFO: Day 4
+May 29, 2024 4:08:43 PM edu.curtin.oose2024s1.assignment2.observer.TaskObserver update
+INFO: Task created: DROP-OFF aqkyif@ssci.cze
+May 29, 2024 4:08:43 PM edu.curtin.oose2024s1.assignment2.observer.SuccessObserver update
+INFO: Servicing accepted for bike owned by: aqkyif@ssci.cze
+May 29, 2024 4:08:44 PM edu.curtin.oose2024s1.assignment2.observer.SuccessObserver update
+INFO: ---
+May 29, 2024 4:08:44 PM edu.curtin.oose2024s1.assignment2.observer.SuccessObserver update
+INFO: Day 5
+May 29, 2024 4:08:44 PM edu.curtin.oose2024s1.assignment2.observer.TaskObserver update
+INFO: Task created: DROP-OFF plpka@aodz.emn
+May 29, 2024 4:08:44 PM edu.curtin.oose2024s1.assignment2.observer.SuccessObserver update
+INFO: Servicing accepted for bike owned by: plpka@aodz.emn
+May 29, 2024 4:08:44 PM edu.curtin.oose2024s1.assignment2.observer.TaskObserver update
+INFO: Task created: DROP-OFF lngxd@bdkc.uli
+May 29, 2024 4:08:44 PM edu.curtin.oose2024s1.assignment2.observer.SuccessObserver update
+INFO: Servicing accepted for bike owned by: lngxd@bdkc.uli
+May 29, 2024 4:08:44 PM edu.curtin.oose2024s1.assignment2.observer.TaskObserver update
+INFO: Task created: PURCHASE-IN-STORE
+May 29, 2024 4:08:44 PM edu.curtin.oose2024s1.assignment2.observer.SuccessObserver update
+INFO: Bike purchased in store.
+May 29, 2024 4:08:44 PM edu.curtin.oose2024s1.assignment2.observer.TaskObserver update
+INFO: Task created: DROP-OFF waki@zaalp.rml
+May 29, 2024 4:08:44 PM edu.curtin.oose2024s1.assignment2.observer.SuccessObserver update
+INFO: Servicing accepted for bike owned by: waki@zaalp.rml
+May 29, 2024 4:08:45 PM edu.curtin.oose2024s1.assignment2.observer.SuccessObserver update
+INFO: ---
+May 29, 2024 4:08:45 PM edu.curtin.oose2024s1.assignment2.observer.SuccessObserver update
+INFO: Day 6
+May 29, 2024 4:08:46 PM edu.curtin.oose2024s1.assignment2.observer.SuccessObserver update
+INFO: ---
+May 29, 2024 4:08:46 PM edu.curtin.oose2024s1.assignment2.observer.SuccessObserver update
+INFO: Day 7
+May 29, 2024 4:08:46 PM edu.curtin.oose2024s1.assignment2.observer.TaskObserver update
+INFO: Task created: PURCHASE-ONLINE elvm@tbees.gtn
+May 29, 2024 4:08:46 PM edu.curtin.oose2024s1.assignment2.observer.SuccessObserver update
+INFO: Bike purchased online by elvm@tbees.gtn.
+May 29, 2024 4:08:47 PM edu.curtin.oose2024s1.assignment2.observer.SuccessObserver update
+INFO: Employee got paid
